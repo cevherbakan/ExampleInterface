@@ -7,6 +7,7 @@ namespace ExampleInterface
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //burası here
         }
     }
 }
