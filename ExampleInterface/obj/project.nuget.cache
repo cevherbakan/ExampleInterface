@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5bctCGmsHnD8sIoxQpHakrIYx1dzllbOS0f2MQTIxnZ1ng9Gmp47cYQwvG+0ahfYGclwzVJyV46VubbzZe5puQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CEVHER\\source\\repos\\ExampleInterface\\ExampleInterface\\ExampleInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CEVHER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
