@@ -1,0 +1,13 @@
+C:\Users\CEVHER\source\repos\ExampleInterface\ExampleInterface\bin\Debug\netcoreapp3.1\ExampleInterface.exe
+C:\Users\CEVHER\source\repos\ExampleInterface\ExampleInterface\bin\Debug\netcoreapp3.1\ExampleInterface.deps.json
+C:\Users\CEVHER\source\repos\ExampleInterface\ExampleInterface\bin\Debug\netcoreapp3.1\ExampleInterface.runtimeconfig.json
+C:\Users\CEVHER\source\repos\ExampleInterface\ExampleInterface\bin\Debug\netcoreapp3.1\ExampleInterface.runtimeconfig.dev.json
+C:\Users\CEVHER\source\repos\ExampleInterface\ExampleInterface\bin\Debug\netcoreapp3.1\ExampleInterface.dll
+C:\Users\CEVHER\source\repos\ExampleInterface\ExampleInterface\bin\Debug\netcoreapp3.1\ExampleInterface.pdb
+C:\Users\CEVHER\source\repos\ExampleInterface\ExampleInterface\obj\Debug\netcoreapp3.1\ExampleInterface.csprojAssemblyReference.cache
+C:\Users\CEVHER\source\repos\ExampleInterface\ExampleInterface\obj\Debug\netcoreapp3.1\ExampleInterface.AssemblyInfoInputs.cache
+C:\Users\CEVHER\source\repos\ExampleInterface\ExampleInterface\obj\Debug\netcoreapp3.1\ExampleInterface.AssemblyInfo.cs
+C:\Users\CEVHER\source\repos\ExampleInterface\ExampleInterface\obj\Debug\netcoreapp3.1\ExampleInterface.csproj.CoreCompileInputs.cache
+C:\Users\CEVHER\source\repos\ExampleInterface\ExampleInterface\obj\Debug\netcoreapp3.1\ExampleInterface.dll
+C:\Users\CEVHER\source\repos\ExampleInterface\ExampleInterface\obj\Debug\netcoreapp3.1\ExampleInterface.pdb
+C:\Users\CEVHER\source\repos\ExampleInterface\ExampleInterface\obj\Debug\netcoreapp3.1\ExampleInterface.genruntimeconfig.cache
