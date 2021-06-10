@@ -4,29 +4,34 @@ namespace ExampleInterface
 {
     interface IVehicle
     {
-        void TransportTime(int time); // toplam taşıma süresi için
-        void TotalPassenger(int passenger); // toplam yolcu sayısı için
+        void TransportTime(int time); // Toplam taşıma süresi için | Total transport time
+        void TotalPassenger(int passenger); // Toplam yolcu sayısı için | Total Passenger number
 
     }
     interface IAirplane
     {
-        void WingLength(int length); // kanat uzunluğu için
-        void MaxAltitude(int altitude); // max uçuş yüksekliği
+        void WingLength(int length); // Kanat uzunluğu için | For wing length
+        void MaxAltitude(int altitude); // Max uçuş yüksekliği | Max height level
 
     }
     interface IShip
     {
-        void MaxDeepWater(int deep); // max su derinliği için
+        void MaxDeepWater(int deep); // Max su derinliği için | Max deep water level
     }
     interface ICar
     {
-        void GearNumber(int gear);// vites sayısı için
+        void GearNumber(int gear);// Vites sayısı için | For vites number
 
     }
 
 
     class Airplane : IAirplane,IVehicle
     {
+        public Airplane()
+        {
+            Console.WriteLine("");
+        }
+
         public void MaxAltitude(int altitude)
         {
             Console.WriteLine("This Airplane maximum altitude : " + altitude + " feet");
@@ -52,6 +57,10 @@ namespace ExampleInterface
 
     class Ship : IShip, IVehicle
     {
+        public Ship()
+        {
+            Console.WriteLine("");
+        }
         public void MaxDeepWater(int deep)
         {
             Console.WriteLine("This Ship maximum deep : " + deep + " meters");
@@ -71,6 +80,11 @@ namespace ExampleInterface
 
     class Car : ICar, IVehicle
     {
+        public Car()
+        {
+            Console.WriteLine("");
+        }
+
         public void GearNumber(int gear)
         {
             Console.WriteLine("This Car has : "+gear+" gear");
@@ -107,8 +121,6 @@ namespace ExampleInterface
             ship.MaxDeepWater(20);
             ship.TotalPassenger(2000);
             ship.TransportTime(150);
-
-
             
 
         }
